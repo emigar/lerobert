@@ -1,0 +1,238 @@
+.s_art {
+margin-top : 0;
+margin-left : 5pt;
+margin-right : 10pt;
+margin-bottom : 20pt;
+line-height : 130%;
+margin-left : 0;
+text-align: justify;
+font-family : Segoe UI, Calibri, Lucida Grande, serif;
+line-height : 140%;
+}
+.s_pti {
+margin-left : 20pt;
+text-indent : -20pt;
+margin-bottom : 10pt;
+line-height : 250%;
+text-align : left;
+}
+.s_ent {
+font-style : normal;
+color : black;
+font-size : 24pt;
+font-weight : normal;
+margin-right : 2pt;
+}
+.s_phon {
+font-style : normal;
+font-weight : normal;
+font-variant : normal;
+font-family : "Arial Unicode MS", "Lucida Sans Unicode", "Lucida Grande", Gentium;
+font-size : 100%;
+text-transform: none;
+}
+.Clickable {
+	cursor: pointer;
+}
+.s_cat {
+font-style : normal;
+font-weight : bold;
+font-family : Arial;
+font-variant : normal;
+color : rgb(0,30,0);
+font-size : 90%;
+text-transform: none;
+}
+.s_nptm {
+color: rgb(215,25,27);
+text-align : center;
+margin-top : 15pt;
+margin-bottom : 5pt;
+font-size : 80%;
+}
+.s_dvn {
+margin-top : 10pt;
+margin-bottom : 15pt;
+margin-left : 8pt;
+text-indent : 0;
+}
+.s_ndvn {
+color : rgb(215,25,27);
+font-weight : bold;
+font-family : Verdana;
+font-size : 75%;
+font-size : 70%;
+border : solid 1px rgb(215,25,27);
+padding: 0pt 1pt;
+-webkit-border-radius : 4px;
+border-radius : 4px;
+margin-right: 1pt;
+}
+.s_dfn {
+color: rgb(0,0,90);
+font-style : normal;
+}
+.s_dvf {
+font-family : Verdana;
+font-style : normal;
+font-weight : bold;
+font-size : 75%;
+color : black;
+margin-top : 10pt;
+margin-left : 10pt;
+text-indent : -10pt;
+line-height : 1.5;
+}
+.s_dvt {
+margin-top : 2pt;
+margin-left : 8pt;
+text-indent : 0;
+}
+.s_etq3 {
+font-family : Verdana;
+font-weight : bold;
+font-style : normal;
+color : black;
+font-size : 100%;
+text-transform: uppercase;
+}
+.s_gls {
+font-style : normal;
+font-weight : normal;
+font-variant : normal;
+}
+.s_mrq {
+font-family : Verdana;
+font-size : 75%;
+font-style : normal;
+font-variant : normal;
+font-weight : normal;
+text-transform: uppercase;
+}
+.s_mta {
+font-family : Verdana;
+font-size : 80%;
+font-style : normal;
+font-weight : normal;
+font-variant : normal;
+text-transform: none;
+}
+.s_noh {
+font-style : normal;
+font-weight : normal;
+font-size : 90%;
+}
+.s_ptf {
+margin-left : 5pt;
+margin-top : 5pt;
+text-align : left;
+}
+.s_rvd {
+font-style : normal;
+font-weight : bold;
+color: black;
+text-transform: none;
+font-family : Verdana;
+font-size : 80%;
+font-variant : normal;
+}
+.s_rvh {
+color: black;
+border-bottom: dotted 1px silver;
+padding-bottom: 0;
+}
+.s_x {
+font-weight : normal;
+font-style : normal;
+font-variant : normal;
+text-transform: none;
+}
+.s_xpl {
+font-family : Segoe UI, Calibri, Lucida Grande;
+font-style : italic;
+font-weight : normal;
+font-size : 100%;
+}
+.s_etq2 {
+font-weight : bold;
+font-style : normal;
+font-size : 90%;
+text-transform: uppercase;
+}
+.zetm {
+border-left : solid 1px rgb(100,100,100);
+padding-left : 4pt;
+margin-left : 6pt;
+margin-right : 20pt;
+margin-top : 12pt;
+margin-bottom : 15pt;
+text-indent : 0pt;
+line-height : 130%;
+bbackground-color : #FFFBEE;
+}
+.s_etm2 {
+font-family : Verdana;
+font-size : 80%;
+color: black;
+font-style : normal;
+font-weight : normal;
+font-variant : normal;
+}
+.s_ndvr {
+background-color : rgb(215,25,27);
+color: white;
+padding: 1pt 2pt;
+font-weight : bold;
+font-family : Verdana;
+font-size : 75%;
+-webkit-border-radius : 4px;
+border-radius : 4px;
+margin-right: 1pt;
+}
+.s_hr1 {
+width : 80pt;
+text-align : center;
+color : rgb(0,56,100);
+height : 1px;
+border-top-style : solid;
+border-right-style : none;
+border-bottom-style : none;
+border-left-style : none;
+visibility: hidden;
+}
+.s_xpc {
+font-style : normal;
+font-weight : bold;
+text-transform : uppercase;
+font-size: 90%;
+}
+.f_rv {
+font-family : Arial Unicode MS, Lucida Sans Unicode, Lucida Grande;
+font-size : 120%;
+font-weight : normal;
+font-style : normal;
+font-variant : normal;
+text-decoration : none;
+}
+.s_cit {
+font-style : italic;
+font-weight : normal;
+font-size : 100%;
+text-transform: none;
+font-variant : normal;
+}
+.s_glo {
+padding-bottom : 0;
+border-bottom : dotted 1px rgb(180,180,180);
+}
+.s_rfc {
+font-style : normal;
+font-weight : normal;
+}
+.s_atr {
+font-style : normal;
+font-weight : normal;
+}
+.s_pc {
+font-variant : small-caps;
+}
